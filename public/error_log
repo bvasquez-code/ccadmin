@@ -1,0 +1,104 @@
+[12-Oct-2019 02:11:17 America/Chicago] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/n4iram7wszfs/public_html/ccadmin/app/Controllers/BaseController.php on line 13
+[12-Oct-2019 02:39:44 America/Chicago] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/n4iram7wszfs/public_html/ccadmin/app/Controllers/BaseController.php on line 6
+[12-Oct-2019 22:05:25 America/Chicago] PHP Fatal error:  Cannot use ___PHPSTORM_HELPERS\object as object because 'object' is a special class name in /home/n4iram7wszfs/public_html/ccadmin/app/Controllers/Perfilusuario.php on line 3
+[12-Oct-2019 22:06:16 America/Chicago] PHP Fatal error:  Cannot use ___PHPSTORM_HELPERS\object as object because 'object' is a special class name in /home/n4iram7wszfs/public_html/ccadmin/app/Controllers/Perfilusuario.php on line 3
+[14-Oct-2019 01:09:47 America/Chicago] PHP Fatal error:  Cannot use empty array elements in arrays in /home/n4iram7wszfs/public_html/ccadmin/app/Models/CAD/CADPerfilusuario.php on line 28
+[21-Oct-2019 16:43:18 America/Chicago] PHP Fatal error:  Cannot use App\Models\CLN\CLNParsistema as LNParsistema because the name is already in use in /home/n4iram7wszfs/public_html/ccadmin/app/Controllers/Parsistema.php on line 10
+[24-Oct-2019 00:13:44 America/Chicago] PHP Fatal error:  Constant expression contains invalid operations in /home/n4iram7wszfs/public_html/ccadmin/app/Models/CEN/CENConfigsistema.php on line 14
+[24-Oct-2019 00:13:56 America/Chicago] PHP Fatal error:  Constant expression contains invalid operations in /home/n4iram7wszfs/public_html/ccadmin/app/Models/CEN/CENConfigsistema.php on line 14
+[24-Oct-2019 00:14:13 America/Chicago] PHP Fatal error:  Constant expression contains invalid operations in /home/n4iram7wszfs/public_html/ccadmin/app/Models/CEN/CENConfigsistema.php on line 14
+[01-Nov-2019 01:15:34 America/Chicago] PHP Fatal error:  Cannot use ___PHPSTORM_HELPERS\object as object because 'object' is a special class name in /home/n4iram7wszfs/public_html/ccadmin/app/Models/CSE/CSEOrquestador.php on line 3
+[01-Nov-2019 01:18:48 America/Chicago] PHP Fatal error:  Cannot use ___PHPSTORM_HELPERS\object as object because 'object' is a special class name in /home/n4iram7wszfs/public_html/ccadmin/app/Models/CSE/CSEOrquestador.php on line 3
+[01-Nov-2019 02:08:02 America/Chicago] PHP Fatal error:  Cannot use ___PHPSTORM_HELPERS\object as object because 'object' is a special class name in /home/n4iram7wszfs/public_html/ccadmin/app/Models/CSE/CSEOrquestador.php on line 3
+[04-Nov-2019 21:00:10 America/Chicago] PHP Fatal error:  Cannot use ___PHPSTORM_HELPERS\object as object because 'object' is a special class name in /home/n4iram7wszfs/public_html/ccadmin/app/Models/CEN/CENRequestService.php on line 3
+[17-Nov-2019 00:51:34 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant CI_DEBUG - assumed 'CI_DEBUG' (this will throw an Error in a future version of PHP) in /home/n4iram7wszfs/public_html/ccadmin/system/Log/Logger.php:155
+Stack trace:
+#0 /home/n4iram7wszfs/public_html/ccadmin/system/Log/Logger.php(155): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/home/n4iram7ws...', 155, Array)
+#1 /home/n4iram7wszfs/public_html/ccadmin/system/Config/Services.php(432): CodeIgniter\Log\Logger->__construct(Object(Config\Logger))
+#2 /home/n4iram7wszfs/public_html/ccadmin/system/Config/BaseService.php(119): CodeIgniter\Config\Services::logger(false)
+#3 /home/n4iram7wszfs/public_html/ccadmin/system/Config/Services.php(429): CodeIgniter\Config\BaseService::getSharedInstance('logger')
+#4 /home/n4iram7wszfs/public_html/ccadmin/system/Common.php(489): CodeIgniter\Config\Services::logger(true)
+#5 /home/n4iram7wszfs/public_html/ccadmin/system/Debug/Exceptions.php(152): log_message('critical', 'Use of undefine...', Array)
+#6 [inter in /home/n4iram7wszfs/public_html/ccadmin/system/Log/Logger.php on line 155
+[17-Nov-2019 00:52:06 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant CI_DEBUG - assumed 'CI_DEBUG' (this will throw an Error in a future version of PHP) in /home/n4iram7wszfs/public_html/ccadmin/system/Log/Logger.php:155
+Stack trace:
+#0 /home/n4iram7wszfs/public_html/ccadmin/system/Log/Logger.php(155): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/home/n4iram7ws...', 155, Array)
+#1 /home/n4iram7wszfs/public_html/ccadmin/system/Config/Services.php(432): CodeIgniter\Log\Logger->__construct(Object(Config\Logger))
+#2 /home/n4iram7wszfs/public_html/ccadmin/system/Config/BaseService.php(119): CodeIgniter\Config\Services::logger(false)
+#3 /home/n4iram7wszfs/public_html/ccadmin/system/Config/Services.php(429): CodeIgniter\Config\BaseService::getSharedInstance('logger')
+#4 /home/n4iram7wszfs/public_html/ccadmin/system/Common.php(489): CodeIgniter\Config\Services::logger(true)
+#5 /home/n4iram7wszfs/public_html/ccadmin/system/Debug/Exceptions.php(152): log_message('critical', 'Use of undefine...', Array)
+#6 [inter in /home/n4iram7wszfs/public_html/ccadmin/system/Log/Logger.php on line 155
+[17-Nov-2019 00:52:17 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant CI_DEBUG - assumed 'CI_DEBUG' (this will throw an Error in a future version of PHP) in /home/n4iram7wszfs/public_html/ccadmin/system/Log/Logger.php:155
+Stack trace:
+#0 /home/n4iram7wszfs/public_html/ccadmin/system/Log/Logger.php(155): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/home/n4iram7ws...', 155, Array)
+#1 /home/n4iram7wszfs/public_html/ccadmin/system/Config/Services.php(432): CodeIgniter\Log\Logger->__construct(Object(Config\Logger))
+#2 /home/n4iram7wszfs/public_html/ccadmin/system/Config/BaseService.php(119): CodeIgniter\Config\Services::logger(false)
+#3 /home/n4iram7wszfs/public_html/ccadmin/system/Config/Services.php(429): CodeIgniter\Config\BaseService::getSharedInstance('logger')
+#4 /home/n4iram7wszfs/public_html/ccadmin/system/Common.php(489): CodeIgniter\Config\Services::logger(true)
+#5 /home/n4iram7wszfs/public_html/ccadmin/system/Debug/Exceptions.php(152): log_message('critical', 'Use of undefine...', Array)
+#6 [inter in /home/n4iram7wszfs/public_html/ccadmin/system/Log/Logger.php on line 155
+[17-Nov-2019 00:52:19 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant CI_DEBUG - assumed 'CI_DEBUG' (this will throw an Error in a future version of PHP) in /home/n4iram7wszfs/public_html/ccadmin/system/Log/Logger.php:155
+Stack trace:
+#0 /home/n4iram7wszfs/public_html/ccadmin/system/Log/Logger.php(155): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/home/n4iram7ws...', 155, Array)
+#1 /home/n4iram7wszfs/public_html/ccadmin/system/Config/Services.php(432): CodeIgniter\Log\Logger->__construct(Object(Config\Logger))
+#2 /home/n4iram7wszfs/public_html/ccadmin/system/Config/BaseService.php(119): CodeIgniter\Config\Services::logger(false)
+#3 /home/n4iram7wszfs/public_html/ccadmin/system/Config/Services.php(429): CodeIgniter\Config\BaseService::getSharedInstance('logger')
+#4 /home/n4iram7wszfs/public_html/ccadmin/system/Common.php(489): CodeIgniter\Config\Services::logger(true)
+#5 /home/n4iram7wszfs/public_html/ccadmin/system/Debug/Exceptions.php(152): log_message('critical', 'Use of undefine...', Array)
+#6 [inter in /home/n4iram7wszfs/public_html/ccadmin/system/Log/Logger.php on line 155
+[04-Apr-2020 13:55:45 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/n4iram7wszfs/public_html/ccadmin/system/Session/Handlers/FileHandler.php on line 208
+[04-Apr-2020 14:04:23 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/n4iram7wszfs/public_html/ccadmin/system/Session/Handlers/FileHandler.php on line 208
+[04-Apr-2020 14:04:53 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/n4iram7wszfs/public_html/ccadmin/system/Session/Handlers/FileHandler.php on line 208
+[04-Apr-2020 14:06:16 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/n4iram7wszfs/public_html/ccadmin/system/Session/Handlers/FileHandler.php on line 208
+[04-Apr-2020 14:07:06 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/n4iram7wszfs/public_html/ccadmin/system/Session/Handlers/FileHandler.php on line 208
+[04-Apr-2020 14:07:17 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/n4iram7wszfs/public_html/ccadmin/system/Session/Handlers/FileHandler.php on line 208
+[04-Apr-2020 14:07:42 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/n4iram7wszfs/public_html/ccadmin/system/Session/Handlers/FileHandler.php on line 208
+[04-Apr-2020 14:08:12 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/n4iram7wszfs/public_html/ccadmin/system/Session/Handlers/FileHandler.php on line 208
+[05-Apr-2020 14:41:12 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(/home/n4iram7wszfs/public_html/ccadmin/system/app/Libraries/phpqrcode/qrlib.php): failed to open stream: No such file or directory in /home/n4iram7wszfs/public_html/ccadmin/app/Models/CLN/CLNServices.php:12
+Stack trace:
+#0 /home/n4iram7wszfs/public_html/ccadmin/app/Models/CLN/CLNServices.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/n4iram7ws...', 12, Array)
+#1 /home/n4iram7wszfs/public_html/ccadmin/app/Models/CLN/CLNServices.php(12): require_once()
+#2 /home/n4iram7wszfs/public_html/ccadmin/system/Autoloader/Autoloader.php(364): require_once('/home/n4iram7ws...')
+#3 /home/n4iram7wszfs/public_html/ccadmin/system/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->requireFile('/home/n4iram7ws...')
+#4 /home/n4iram7wszfs/public_html/ccadmin/system/Autoloader/Autoloader.php(257): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\CLN\\...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('A in /home/n4iram7wszfs/public_html/ccadmin/app/Models/CLN/CLNServices.php on line 12
+[05-Apr-2020 14:41:13 America/Chicago] PHP Fatal error:  CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/home/n4iram7wszfs/public_html/ccadmin/system/app/Libraries/phpqrcode/qrlib.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/n4iram7wszfs/public_html/ccadmin/app/Models/CLN/CLNServices.php on line 12
+[05-Apr-2020 14:45:12 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(app/Libraries/phpqrcode/qrlib.php): failed to open stream: No such file or directory in /home/n4iram7wszfs/public_html/ccadmin/app/Models/CLN/CLNServices.php:12
+Stack trace:
+#0 /home/n4iram7wszfs/public_html/ccadmin/app/Models/CLN/CLNServices.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(ap...', '/home/n4iram7ws...', 12, Array)
+#1 /home/n4iram7wszfs/public_html/ccadmin/app/Models/CLN/CLNServices.php(12): require_once()
+#2 /home/n4iram7wszfs/public_html/ccadmin/system/Autoloader/Autoloader.php(364): require_once('/home/n4iram7ws...')
+#3 /home/n4iram7wszfs/public_html/ccadmin/system/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->requireFile('/home/n4iram7ws...')
+#4 /home/n4iram7wszfs/public_html/ccadmin/system/Autoloader/Autoloader.php(257): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\CLN\\...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\CLN\\...')
+#6 /home/n4iram7wszfs/p in /home/n4iram7wszfs/public_html/ccadmin/app/Models/CLN/CLNServices.php on line 12
+[05-Apr-2020 14:45:12 America/Chicago] PHP Fatal error:  CodeIgniter\Autoloader\Autoloader::main(): Failed opening required 'app/Libraries/phpqrcode/qrlib.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/n4iram7wszfs/public_html/ccadmin/app/Models/CLN/CLNServices.php on line 12
+[05-Apr-2020 15:11:46 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(phpqrcode/qrlib.php): failed to open stream: No such file or directory in /home/n4iram7wszfs/public_html/ccadmin/app/Models/CLN/CLNServices.php:25
+Stack trace:
+#0 /home/n4iram7wszfs/public_html/ccadmin/app/Models/CLN/CLNServices.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(ph...', '/home/n4iram7ws...', 25, Array)
+#1 /home/n4iram7wszfs/public_html/ccadmin/app/Models/CLN/CLNServices.php(25): require_once()
+#2 /home/n4iram7wszfs/public_html/ccadmin/app/Controllers/Services.php(24): App\Models\CLN\CLNServices->Get_Code_qr()
+#3 /home/n4iram7wszfs/public_html/ccadmin/system/CodeIgniter.php(844): App\Controllers\Services->Get_Code_qr()
+#4 /home/n4iram7wszfs/public_html/ccadmin/system/CodeIgniter.php(335): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Services))
+#5 /home/n4iram7wszfs/public_html/ccadmin/system/CodeIgniter.php(245): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/n4iram7wszfs/public_html/cc in /home/n4iram7wszfs/public_html/ccadmin/app/Models/CLN/CLNServices.php on line 25
+[05-Apr-2020 15:11:46 America/Chicago] PHP Fatal error:  App\Models\CLN\CLNServices::Get_Code_qr(): Failed opening required 'phpqrcode/qrlib.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/n4iram7wszfs/public_html/ccadmin/app/Models/CLN/CLNServices.php on line 25
+[05-Apr-2020 15:12:24 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(app/Libraries/phpqrcode/qrlib.php): failed to open stream: No such file or directory in /home/n4iram7wszfs/public_html/ccadmin/app/Models/CLN/CLNServices.php:25
+Stack trace:
+#0 /home/n4iram7wszfs/public_html/ccadmin/app/Models/CLN/CLNServices.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(ap...', '/home/n4iram7ws...', 25, Array)
+#1 /home/n4iram7wszfs/public_html/ccadmin/app/Models/CLN/CLNServices.php(25): require_once()
+#2 /home/n4iram7wszfs/public_html/ccadmin/app/Controllers/Services.php(24): App\Models\CLN\CLNServices->Get_Code_qr()
+#3 /home/n4iram7wszfs/public_html/ccadmin/system/CodeIgniter.php(844): App\Controllers\Services->Get_Code_qr()
+#4 /home/n4iram7wszfs/public_html/ccadmin/system/CodeIgniter.php(335): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Services))
+#5 /home/n4iram7wszfs/public_html/ccadmin/system/CodeIgniter.php(245): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/n4iram7wszfs/ in /home/n4iram7wszfs/public_html/ccadmin/app/Models/CLN/CLNServices.php on line 25
+[05-Apr-2020 15:12:24 America/Chicago] PHP Fatal error:  App\Models\CLN\CLNServices::Get_Code_qr(): Failed opening required 'app/Libraries/phpqrcode/qrlib.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/n4iram7wszfs/public_html/ccadmin/app/Models/CLN/CLNServices.php on line 25
+[05-Apr-2020 16:19:25 America/Chicago] PHP Fatal error:  Interface 'Endroid\QrCode\QrCodeInterface' not found in /home/n4iram7wszfs/public_html/ccadmin/app/Libraries/Endroid/src/QrCode.php on line 19
+[05-Apr-2020 16:20:04 America/Chicago] PHP Fatal error:  Interface 'Endroid\QrCode\QrCodeInterface' not found in /home/n4iram7wszfs/public_html/ccadmin/app/Libraries/Endroid/src/QrCode.php on line 19
+[05-Apr-2020 16:21:29 America/Chicago] PHP Fatal error:  Interface 'Endroid\QrCode\QrCodeInterface' not found in /home/n4iram7wszfs/public_html/ccadmin/app/Libraries/Endroid/src/QrCode.php on line 19
+[05-Apr-2020 16:24:26 America/Chicago] PHP Fatal error:  Interface 'Endroid\QrCode\QrCodeInterface' not found in /home/n4iram7wszfs/public_html/ccadmin/app/Libraries/Endroid/src/QrCode.php on line 19
+[05-Apr-2020 16:32:28 America/Chicago] PHP Fatal error:  Interface 'Endroid\QrCode\QrCodeInterface' not found in /home/n4iram7wszfs/public_html/ccadmin/app/Libraries/Endroid/src/QrCode.php on line 19
+[05-Apr-2020 16:32:46 America/Chicago] PHP Fatal error:  Interface 'Endroid\QrCode\QrCodeInterface' not found in /home/n4iram7wszfs/public_html/ccadmin/app/Libraries/Endroid/src/QrCode.php on line 19
+[05-Apr-2020 20:12:04 America/Chicago] PHP Fatal error:  Interface 'Endroid\QrCode\QrCodeInterface' not found in /home/n4iram7wszfs/public_html/ccadmin/app/Libraries/Endroid/src/QrCode.php on line 19
+[05-Apr-2020 20:13:44 America/Chicago] PHP Fatal error:  Interface 'Endroid\QrCode\QrCodeInterface' not found in /home/n4iram7wszfs/public_html/ccadmin/app/Libraries/Endroid/src/QrCode.php on line 19
